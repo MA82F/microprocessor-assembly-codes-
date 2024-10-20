@@ -1,1 +1,2 @@
-# microprocessor-assembly-codes-
+# microprocessor-assembly-codes
+this is an assembly code that get from user character by character as an input(limited up to 100 characters) and then get a substring  as second input(up to 20 characters) and the output is : showing the first input as main string and in the second line substring, how much has repeated substring in main string for third line, and in last line show the index of first repeat
